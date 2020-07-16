@@ -1,2 +1,2 @@
 # Telemedicina
-Telemedicna Project
+Telemedicina Project
